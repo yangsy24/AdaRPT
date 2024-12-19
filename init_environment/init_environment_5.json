@@ -1,0 +1,407 @@
+[
+    {
+        "type": "at",
+        "object": "plate",
+        "location": "suitcase",
+        "state": "at(plate,suitcase)"
+    },
+    {
+        "type": "at",
+        "object": "cup",
+        "location": "closet",
+        "state": "at(cup,closet)"
+    },
+    {
+        "type": "at",
+        "object": "vase",
+        "location": "desk",
+        "state": "at(vase,desk)"
+    },
+    {
+        "type": "at",
+        "object": "fork",
+        "location": "shelf",
+        "state": "at(fork,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "knife",
+        "location": "bar",
+        "state": "at(knife,bar)"
+    },
+    {
+        "type": "at",
+        "object": "spoon",
+        "location": "cabinet",
+        "state": "at(spoon,cabinet)"
+    },
+    {
+        "type": "at",
+        "object": "phone",
+        "location": "closet",
+        "state": "at(phone,closet)"
+    },
+    {
+        "type": "at",
+        "object": "laptop",
+        "location": "shelf",
+        "state": "at(laptop,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "tablet",
+        "location": "desk",
+        "state": "at(tablet,desk)"
+    },
+    {
+        "type": "at",
+        "object": "earphones",
+        "location": "suitcase",
+        "state": "at(earphones,suitcase)"
+    },
+    {
+        "type": "at",
+        "object": "keyboard",
+        "location": "sofa",
+        "state": "at(keyboard,sofa)"
+    },
+    {
+        "type": "at",
+        "object": "camera",
+        "location": "shelf",
+        "state": "at(camera,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "clock",
+        "location": "bar",
+        "state": "at(clock,bar)"
+    },
+    {
+        "type": "at",
+        "object": "pillow",
+        "location": "suitcase",
+        "state": "at(pillow,suitcase)"
+    },
+    {
+        "type": "at",
+        "object": "umbrella",
+        "location": "shelf",
+        "state": "at(umbrella,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "keys",
+        "location": "desk",
+        "state": "at(keys,desk)"
+    },
+    {
+        "type": "at",
+        "object": "watch",
+        "location": "sofa",
+        "state": "at(watch,sofa)"
+    },
+    {
+        "type": "at",
+        "object": "candle",
+        "location": "desk",
+        "state": "at(candle,desk)"
+    },
+    {
+        "type": "at",
+        "object": "backpack",
+        "location": "sofa",
+        "state": "at(backpack,sofa)"
+    },
+    {
+        "type": "at",
+        "object": "wallet",
+        "location": "shelf",
+        "state": "at(wallet,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "toothbrush",
+        "location": "cabinet",
+        "state": "at(toothbrush,cabinet)"
+    },
+    {
+        "type": "at",
+        "object": "scissors",
+        "location": "shelf",
+        "state": "at(scissors,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "glue",
+        "location": "table",
+        "state": "at(glue,table)"
+    },
+    {
+        "type": "at",
+        "object": "toothpaste",
+        "location": "table",
+        "state": "at(toothpaste,table)"
+    },
+    {
+        "type": "at",
+        "object": "dessert",
+        "location": "fridge",
+        "state": "at(dessert,fridge)"
+    },
+    {
+        "type": "at",
+        "object": "crisps",
+        "location": "drawer",
+        "state": "at(crisps,drawer)"
+    },
+    {
+        "type": "at",
+        "object": "egg",
+        "location": "sofa",
+        "state": "at(egg,sofa)"
+    },
+    {
+        "type": "at",
+        "object": "bread",
+        "location": "desk",
+        "state": "at(bread,desk)"
+    },
+    {
+        "type": "at",
+        "object": "cheese",
+        "location": "suitcase",
+        "state": "at(cheese,suitcase)"
+    },
+    {
+        "type": "at",
+        "object": "apple",
+        "location": "desk",
+        "state": "at(apple,desk)"
+    },
+    {
+        "type": "at",
+        "object": "banana",
+        "location": "bar",
+        "state": "at(banana,bar)"
+    },
+    {
+        "type": "at",
+        "object": "orange",
+        "location": "drawer",
+        "state": "at(orange,drawer)"
+    },
+    {
+        "type": "at",
+        "object": "magazine",
+        "location": "desk",
+        "state": "at(magazine,desk)"
+    },
+    {
+        "type": "at",
+        "object": "newspaper",
+        "location": "cabinet",
+        "state": "at(newspaper,cabinet)"
+    },
+    {
+        "type": "at",
+        "object": "book",
+        "location": "table",
+        "state": "at(book,table)"
+    },
+    {
+        "type": "at",
+        "object": "cd",
+        "location": "closet",
+        "state": "at(cd,closet)"
+    },
+    {
+        "type": "at",
+        "object": "pen",
+        "location": "shelf",
+        "state": "at(pen,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "notebook",
+        "location": "shelf",
+        "state": "at(notebook,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "coat",
+        "location": "table",
+        "state": "at(coat,table)"
+    },
+    {
+        "type": "at",
+        "object": "blanket",
+        "location": "suitcase",
+        "state": "at(blanket,suitcase)"
+    },
+    {
+        "type": "at",
+        "object": "towel",
+        "location": "drawer",
+        "state": "at(towel,drawer)"
+    },
+    {
+        "type": "at",
+        "object": "hat",
+        "location": "bar",
+        "state": "at(hat,bar)"
+    },
+    {
+        "type": "at",
+        "object": "socks",
+        "location": "drawer",
+        "state": "at(socks,drawer)"
+    },
+    {
+        "type": "at",
+        "object": "gloves",
+        "location": "sofa",
+        "state": "at(gloves,sofa)"
+    },
+    {
+        "type": "at",
+        "object": "coffee",
+        "location": "shelf",
+        "state": "at(coffee,shelf)"
+    },
+    {
+        "type": "at",
+        "object": "water",
+        "location": "closet",
+        "state": "at(water,closet)"
+    },
+    {
+        "type": "at",
+        "object": "yoghurt",
+        "location": "sofa",
+        "state": "at(yoghurt,sofa)"
+    },
+    {
+        "type": "at",
+        "object": "milk",
+        "location": "bar",
+        "state": "at(milk,bar)"
+    },
+    {
+        "type": "at",
+        "object": "cola",
+        "location": "suitcase",
+        "state": "at(cola,suitcase)"
+    },
+    {
+        "type": "at",
+        "object": "juice",
+        "location": "sofa",
+        "state": "at(juice,sofa)"
+    },
+    {
+        "type": "dirty",
+        "location": "table",
+        "state": "dirty(table)"
+    },
+    {
+        "type": "dirty",
+        "location": "shelf",
+        "state": "dirty(shelf)"
+    },
+    {
+        "type": "clean",
+        "location": "bar",
+        "state": "clean(bar)"
+    },
+    {
+        "type": "clean",
+        "location": "desk",
+        "state": "clean(desk)"
+    },
+    {
+        "type": "clean",
+        "location": "sofa",
+        "state": "clean(sofa)"
+    },
+    {
+        "type": "dirty",
+        "location": "fridge",
+        "state": "dirty(fridge)"
+    },
+    {
+        "type": "clean",
+        "location": "cabinet",
+        "state": "clean(cabinet)"
+    },
+    {
+        "type": "clean",
+        "location": "closet",
+        "state": "clean(closet)"
+    },
+    {
+        "type": "dirty",
+        "location": "drawer",
+        "state": "dirty(drawer)"
+    },
+    {
+        "type": "dirty",
+        "location": "suitcase",
+        "state": "dirty(suitcase)"
+    },
+    {
+        "type": "closed",
+        "storage": "fridge",
+        "state": "closed(fridge)"
+    },
+    {
+        "type": "closed",
+        "storage": "cabinet",
+        "state": "closed(cabinet)"
+    },
+    {
+        "type": "closed",
+        "storage": "closet",
+        "state": "closed(closet)"
+    },
+    {
+        "type": "closed",
+        "storage": "drawer",
+        "state": "closed(drawer)"
+    },
+    {
+        "type": "closed",
+        "storage": "suitcase",
+        "state": "closed(suitcase)"
+    },
+    {
+        "type": "off",
+        "device": "television",
+        "state": "off(television)"
+    },
+    {
+        "type": "off",
+        "device": "air_conditioner",
+        "state": "off(air_conditioner)"
+    },
+    {
+        "type": "on",
+        "device": "lamp",
+        "state": "on(lamp)"
+    },
+    {
+        "type": "off",
+        "device": "microwave",
+        "state": "off(microwave)"
+    },
+    {
+        "type": "on",
+        "device": "fan",
+        "state": "on(fan)"
+    },
+    {
+        "type": "robotAt",
+        "location": "sofa",
+        "state": "robotAt(sofa)"
+    }
+]
